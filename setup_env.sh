@@ -30,12 +30,16 @@ if [ ! -d $ENV_NAME ]; then
     virtualenv -p python3 $ENV_NAME
     echo
 
+    source $ENV_NAME/bin/activate
+
+    pip install jupyter ipython tensorflow numpy scipy sklearn jupyterlab
+
+    ipython kernel install --user --name=$ENV_NAME
+
 else
 
     echo Looks like your virtual environment already exists.
 
+    source $ENV_NAME/bin/activate
+
 fi
-
-source $ENV_NAME/bin/activate
-
-pip install jupyter ipython tensorflow numpy scipy sklearn jupyterlab

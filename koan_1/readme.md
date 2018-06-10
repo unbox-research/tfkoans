@@ -1,4 +1,4 @@
-# Koan 1
+# Koan 1. Basic Arithmetic.
 
 This is a simple warm-up koan.
 
