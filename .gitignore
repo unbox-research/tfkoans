@@ -3,3 +3,4 @@ tfkoans-env/
 *#
 .ipynb_checkpoints/
 *.pkl
+__pycache__
