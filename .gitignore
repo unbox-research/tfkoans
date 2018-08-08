@@ -3,4 +3,5 @@ tfkoans-env/
 *#
 .ipynb_checkpoints/
 *.pkl
+!lin_reg_data.pkl
 __pycache__
