@@ -2,15 +2,15 @@
 
 ## The Task
 
-Read in the training data from this directory (TODO), use
-stochastic gradient descent to fit a linear regression model
-to the data, and then compute the mean squared error on
-the test data.
+Read in the training data from `lin_reg_data.pkl`, use
+gradient descent to fit a linear regression model
+to the data, and then compare your (mean-squared) loss
+and weights to the gold standard values in
+`make_log_reg_data.ipynb`.
 
 ## Generating the Data
 
 Run the notebook `make_log_reg_data.ipynb` to create the
-sample data that can be used to train and test the tf version
+sample data (which will be written to `lin_reg_data.pkl`)
+that can be used to train and test the tf version
 of logistic regression.
-
-TODO(tyler): Consider setting up non-notebook ways to run these.
