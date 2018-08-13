@@ -6,7 +6,7 @@
 - [Koan 2](https://github.com/unbox-research/tfkoans/tree/master/koan_2) Use tf to model some data with linear regression 
 - [Koan 3](https://github.com/unbox-research/tfkoans/tree/master/koan_3) Logistic regression
 - [Koan 4](https://github.com/unbox-research/tfkoans/tree/master/koan_4) Multi-class SVM
-- Model MNIST data with a feed-forward network
+- [Koan 5](https://github.com/unbox-research/tfkoans/tree/master/koan_5) Model MNIST data with a feed-forward network
 - [Koan 6](https://github.com/unbox-research/tfkoans/tree/master/koan_6) Classification with a basic CNN
 - Collaborative filtering w Netflix data
 - Sentiment analysis w RNN
