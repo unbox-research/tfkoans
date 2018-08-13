@@ -7,7 +7,7 @@
 - [Koan 3](https://github.com/unbox-research/tfkoans/tree/master/koan_3) Logistic regression
 - [Koan 4](https://github.com/unbox-research/tfkoans/tree/master/koan_4) Multi-class SVM
 - Model MNIST data with a feed-forward network
-- Object classification w basic CNN
+- [Koan 6](https://github.com/unbox-research/tfkoans/tree/master/koan_6) Classification with a basic CNN
 - Collaborative filtering w Netflix data
 - Sentiment analysis w RNN
 - Train word2vec w subwords
