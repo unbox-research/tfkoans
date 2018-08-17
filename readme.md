@@ -9,6 +9,6 @@
 - [Koan 5](https://github.com/unbox-research/tfkoans/tree/master/koan_5) Model MNIST data with a feed-forward network
 - [Koan 6](https://github.com/unbox-research/tfkoans/tree/master/koan_6) Classification with a basic CNN
 - Collaborative filtering w Netflix data
-- Sentiment analysis w RNN
+- [Koan 8](https://github.com/unbox-research/tfkoans/tree/master/koan_8) Sentiment analysis with an RNN
 - Train word2vec w subwords
 - Text summarization w LSTM + attention
